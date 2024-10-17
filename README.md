@@ -27,8 +27,8 @@
 * Final Project
   * [Video](https://youtu.be/w0Wt_YP0mmc)
   * [Github](https://github.com/Hstout21/HunterCrossing)
-  * [Rough Draft]()
-  * [Final Rough Draft]()
+  * [Rough Draft](https://github.com/Hstout21/GameDesign/blob/main/FinalProjectExtra/ProposalRoughDraftHunterStout.pdf)
+  * [Final Rough Draft](https://github.com/Hstout21/GameDesign/blob/main/FinalProjectExtra/FinalDraftProposalHunterStout.pdf)
   * [Blog Post](https://github.com/Hstout21/GameDesign/blob/main/FinalProjectExtra/blogpost.png) | [Blog Post Picture](https://github.com/Hstout21/GameDesign/blob/main/FinalProjectExtra/devMenuExample.png)
   * [Midterm Report](https://github.com/Hstout21/GameDesign/blob/main/FinalProjectExtra/InterimReportHunterStout.pdf)
   * [Final Report](https://github.com/Hstout21/GameDesign/blob/main/FinalProjectExtra/FinalReport.pdf)
